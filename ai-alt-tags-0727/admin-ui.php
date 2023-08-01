@@ -37,7 +37,7 @@ if (isset($_POST['ai_alt_tag_options_nonce']) && wp_verify_nonce($_POST['ai_alt_
 }
 
 // Get the options from the database
-$api_key = get_option('ai_alt_tags_api_key', '7d777b1e7c934f22a6d4ff662d8fd865');
+$api_key = get_option('ai_alt_tags_api_key', '7d...865');
 $api_version = get_option('ai_alt_tags_api_version', 'v4.0');
 $post_editing = get_option('ai_alt_tags_post_editing', '1');
 $batch_processing = get_option('ai_alt_tags_batch_processing', 'default');
