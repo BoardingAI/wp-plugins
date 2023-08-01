@@ -1,0 +1,864 @@
+2023-07-27 16:13:32 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:13:32 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:13:32 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:13:32 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 0.000111103057861 seconds.
+2023-07-27 16:13:33 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:13:33 - User 2c1b93d511387ab39798ad469981ee49 was removed from the queue.
+2023-07-27 16:13:33 - Time taken to remove user 2c1b93d511387ab39798ad469981ee49 from the queue: 6.89029693604E-5 seconds.
+2023-07-27 16:14:07 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:07 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:07 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:07 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 6.98566436768E-5 seconds.
+2023-07-27 16:14:07 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:07 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:07 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:07 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 7.70092010498E-5 seconds.
+2023-07-27 16:14:08 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:08 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:08 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:08 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 5.79357147217E-5 seconds.
+2023-07-27 16:14:09 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:09 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:09 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:09 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 5.98430633545E-5 seconds.
+2023-07-27 16:14:09 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:09 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:09 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:09 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 9.20295715332E-5 seconds.
+2023-07-27 16:14:10 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:10 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:10 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:10 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 6.29425048828E-5 seconds.
+2023-07-27 16:14:11 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:11 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:11 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:11 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 5.79357147217E-5 seconds.
+2023-07-27 16:14:12 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:12 - Checked queue status for user 2c1b93d511387ab39798ad469981ee49. Queue is empty.
+2023-07-27 16:14:12 - Checked position for user 2c1b93d511387ab39798ad469981ee49. Position is 1.
+2023-07-27 16:14:12 - Time taken to check queue status and position for user 2c1b93d511387ab39798ad469981ee49: 7.9870223999E-5 seconds.
+2023-07-27 16:14:12 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:12 - User 2c1b93d511387ab39798ad469981ee49 was removed from the queue.
+2023-07-27 16:14:12 - Time taken to remove user 2c1b93d511387ab39798ad469981ee49 from the queue: 8.70227813721E-5 seconds.
+2023-07-27 16:14:12 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"2c1b93d511387ab39798ad469981ee49"}
+2023-07-27 16:14:12 - User 2c1b93d511387ab39798ad469981ee49 was removed from the queue.
+2023-07-27 16:14:12 - Time taken to remove user 2c1b93d511387ab39798ad469981ee49 from the queue: 7.41481781006E-5 seconds.
+2023-07-27 16:56:28 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:28 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:28 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:28 - Time taken to check queue status and position for user wpengine: 6.29425048828E-5 seconds.
+2023-07-27 16:56:28 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:28 - User wpengine was removed from the queue.
+2023-07-27 16:56:28 - Time taken to remove user wpengine from the queue: 8.08238983154E-5 seconds.
+2023-07-27 16:56:53 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:53 - User wpengine was added to the queue.
+2023-07-27 16:56:53 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:53 - Time taken to add user wpengine to the queue and get position: 0.000100135803223 seconds.
+2023-07-27 16:56:54 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:54 - User wpengine was added to the queue.
+2023-07-27 16:56:54 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:54 - Time taken to add user wpengine to the queue and get position: 7.29560852051E-5 seconds.
+2023-07-27 16:56:54 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:54 - User wpengine was added to the queue.
+2023-07-27 16:56:54 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:54 - Time taken to add user wpengine to the queue and get position: 7.39097595215E-5 seconds.
+2023-07-27 16:56:54 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:54 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:54 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:54 - Time taken to check queue status and position for user wpengine: 8.39233398438E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:55 - User wpengine was added to the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to add user wpengine to the queue and get position: 7.39097595215E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:55 - User wpengine was added to the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to add user wpengine to the queue and get position: 7.20024108887E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:55 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to check queue status and position for user wpengine: 8.70227813721E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:55 - User wpengine was added to the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to add user wpengine to the queue and get position: 9.79900360107E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:55 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to check queue status and position for user wpengine: 7.20024108887E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:55 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to check queue status and position for user wpengine: 7.79628753662E-5 seconds.
+2023-07-27 16:56:55 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:55 - User wpengine was added to the queue.
+2023-07-27 16:56:55 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:55 - Time taken to add user wpengine to the queue and get position: 7.5101852417E-5 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:56 - User wpengine was added to the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to add user wpengine to the queue and get position: 0.000112056732178 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:56 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to check queue status and position for user wpengine: 0.000104904174805 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:56 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to check queue status and position for user wpengine: 0.000104904174805 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:56 - User wpengine was added to the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to add user wpengine to the queue and get position: 7.79628753662E-5 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:56:56 - User wpengine was added to the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to add user wpengine to the queue and get position: 7.20024108887E-5 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:56 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:56 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to check queue status and position for user wpengine: 0.000103950500488 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:56 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:56 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:56 - Time taken to check queue status and position for user wpengine: 0.000108003616333 seconds.
+2023-07-27 16:56:56 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:56 - User wpengine was removed from the queue.
+2023-07-27 16:56:56 - Time taken to remove user wpengine from the queue: 0.000222206115723 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.00011420249939 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.0001060962677 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000105857849121 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000118970870972 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.0001060962677 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000104904174805 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000218868255615 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000159978866577 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.00011420249939 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000170946121216 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000181913375854 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000324010848999 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.0001060962677 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000128984451294 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.00019907951355 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000221967697144 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000106811523438 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000213861465454 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000149011611938 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:57 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:56:57 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:57 - Time taken to check queue status and position for user wpengine: 0.000127077102661 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000114917755127 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 9.3936920166E-5 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000102996826172 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 0.000128030776978 seconds.
+2023-07-27 16:56:57 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:57 - User wpengine was removed from the queue.
+2023-07-27 16:56:57 - Time taken to remove user wpengine from the queue: 9.48905944824E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.3936920166E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 7.00950622559E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 0.000111103057861 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 8.79764556885E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 7.79628753662E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 8.79764556885E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.39233398438E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 6.69956207275E-5 seconds.
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 8.79764556885E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 0.000115871429443 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.20159912109E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 8.51154327393E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 0.000102996826172 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.89437103271E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.98838043213E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 5.79357147217E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 6.48498535156E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 6.60419464111E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.41617584229E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.70227813721E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 9.10758972168E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 7.79628753662E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.79900360107E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 0.000114917755127 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.91821289062E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.20295715332E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 6.79492950439E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 8.79764556885E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.51290130615E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 0.000117063522339 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 9.10758972168E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 0.000105857849121 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 0.000101089477539 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:58 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:58 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:58 - Time taken to check queue status and position for user wpengine: 0.000127792358398 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 0.000108003616333 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.10758972168E-5 seconds.
+2023-07-27 16:56:58 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:58 - User wpengine was removed from the queue.
+2023-07-27 16:56:58 - Time taken to remove user wpengine from the queue: 9.29832458496E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.10758972168E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.79900360107E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.89437103271E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.3936920166E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 0.000108957290649 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 0.000105142593384 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 0.000102043151855 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.39233398438E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 0.000108957290649 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 8.6784362793E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.70227813721E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.98973846436E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 0.000107049942017 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 9.98973846436E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 9.58442687988E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 0.000152111053467 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 6.60419464111E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 0.000103950500488 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 9.01222229004E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.10623168945E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.79764556885E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.10623168945E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.79764556885E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.51154327393E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.10623168945E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.10758972168E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 9.10758972168E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 6.79492950439E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 8.9168548584E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 7.10487365723E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 0.000117063522339 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:56:59 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:56:59 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:56:59 - Time taken to check queue status and position for user wpengine: 8.79764556885E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 8.70227813721E-5 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 0.000105142593384 seconds.
+2023-07-27 16:56:59 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:56:59 - User wpengine was removed from the queue.
+2023-07-27 16:56:59 - Time taken to remove user wpengine from the queue: 0.000102996826172 seconds.
+2023-07-27 16:57:00 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:00 - User wpengine was removed from the queue.
+2023-07-27 16:57:00 - Time taken to remove user wpengine from the queue: 8.79764556885E-5 seconds.
+2023-07-27 16:57:00 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:00 - User wpengine was removed from the queue.
+2023-07-27 16:57:00 - Time taken to remove user wpengine from the queue: 0.000102996826172 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 8.20159912109E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 0.000102996826172 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 7.5101852417E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000145196914673 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 7.00950622559E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000108003616333 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 7.5101852417E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000102996826172 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 0.0001060962677 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000123977661133 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 7.08103179932E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 7.48634338379E-5 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000105142593384 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 0.000110149383545 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"add_to_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was added to the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to add user wpengine to the queue and get position: 0.000102043151855 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:01 - User wpengine was removed from the queue.
+2023-07-27 16:57:01 - Time taken to remove user wpengine from the queue: 0.000216960906982 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000118970870972 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000176191329956 seconds.
+2023-07-27 16:57:01 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:01 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:01 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:01 - Time taken to check queue status and position for user wpengine: 0.000108957290649 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000255107879639 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000231981277466 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 0.000108003616333 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 0.000118970870972 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000211954116821 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 0.000102043151855 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000211000442505 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 0.000113010406494 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000149965286255 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 0.000106811523438 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 7.48634338379E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000200033187866 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. User is in the queue.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 7.60555267334E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000118017196655 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 7.29560852051E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 0.000104904174805 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 7.00950622559E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 6.38961791992E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 9.20295715332E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 9.79900360107E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 7.70092010498E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 6.48498535156E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 6.98566436768E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 6.60419464111E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 9.79900360107E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 8.60691070557E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:02 - User wpengine was removed from the queue.
+2023-07-27 16:57:02 - Time taken to remove user wpengine from the queue: 6.60419464111E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 6.38961791992E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:57:02 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:02 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:02 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:02 - Time taken to check queue status and position for user wpengine: 5.91278076172E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 8.89301300049E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 9.3936920166E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 7.00950622559E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 8.79764556885E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 8.41617584229E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 6.00814819336E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.48498535156E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 7.58171081543E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.91413879395E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 9.79900360107E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 6.103515625E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 9.67979431152E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 9.20295715332E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 0.000102043151855 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 7.29560852051E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 0.000107049942017 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 9.29832458496E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 8.89301300049E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 5.79357147217E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 7.91549682617E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 7.00950622559E-5 seconds.
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 8.29696655273E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 7.70092010498E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.69956207275E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 6.38961791992E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 5.88893890381E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.38961791992E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 8.89301300049E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 7.70092010498E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.41345977783E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:03 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:03 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:03 - Time taken to check queue status and position for user wpengine: 0.000101089477539 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 6.31809234619E-5 seconds.
+2023-07-27 16:57:03 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:03 - User wpengine was removed from the queue.
+2023-07-27 16:57:03 - Time taken to remove user wpengine from the queue: 7.70092010498E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:04 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:04 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:04 - Time taken to check queue status and position for user wpengine: 8.48770141602E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:04 - User wpengine was removed from the queue.
+2023-07-27 16:57:04 - Time taken to remove user wpengine from the queue: 7.39097595215E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:04 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:04 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:04 - Time taken to check queue status and position for user wpengine: 6.103515625E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:04 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:04 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:04 - Time taken to check queue status and position for user wpengine: 5.60283660889E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"wpengine"}
+2023-07-27 16:57:04 - Checked queue status for user wpengine. Queue is empty.
+2023-07-27 16:57:04 - Checked position for user wpengine. Position is 1.
+2023-07-27 16:57:04 - Time taken to check queue status and position for user wpengine: 6.103515625E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:04 - User wpengine was removed from the queue.
+2023-07-27 16:57:04 - Time taken to remove user wpengine from the queue: 6.29425048828E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:04 - User wpengine was removed from the queue.
+2023-07-27 16:57:04 - Time taken to remove user wpengine from the queue: 6.69956207275E-5 seconds.
+2023-07-27 16:57:04 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"wpengine"}
+2023-07-27 16:57:04 - User wpengine was removed from the queue.
+2023-07-27 16:57:04 - Time taken to remove user wpengine from the queue: 7.10487365723E-5 seconds.
+2023-07-27 17:14:37 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:14:37 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:14:37 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:14:37 - Time taken to check queue status and position for user boardingai: 6.38961791992E-5 seconds.
+2023-07-27 17:14:38 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"boardingai"}
+2023-07-27 17:14:38 - User boardingai was removed from the queue.
+2023-07-27 17:14:38 - Time taken to remove user boardingai from the queue: 7.41481781006E-5 seconds.
+2023-07-27 17:14:40 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:14:40 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:14:40 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:14:40 - Time taken to check queue status and position for user boardingai: 9.20295715332E-5 seconds.
+2023-07-27 17:14:40 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"boardingai"}
+2023-07-27 17:14:40 - User boardingai was removed from the queue.
+2023-07-27 17:14:40 - Time taken to remove user boardingai from the queue: 6.79492950439E-5 seconds.
+2023-07-27 17:15:21 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:21 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:21 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:21 - Time taken to check queue status and position for user boardingai: 7.79628753662E-5 seconds.
+2023-07-27 17:15:22 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:22 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:22 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:22 - Time taken to check queue status and position for user boardingai: 6.00814819336E-5 seconds.
+2023-07-27 17:15:22 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:22 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:22 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:22 - Time taken to check queue status and position for user boardingai: 5.69820404053E-5 seconds.
+2023-07-27 17:15:23 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:23 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:23 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:23 - Time taken to check queue status and position for user boardingai: 6.00814819336E-5 seconds.
+2023-07-27 17:15:24 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:24 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:24 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:24 - Time taken to check queue status and position for user boardingai: 6.60419464111E-5 seconds.
+2023-07-27 17:15:25 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:25 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:25 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:25 - Time taken to check queue status and position for user boardingai: 5.88893890381E-5 seconds.
+2023-07-27 17:15:26 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:26 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:26 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:26 - Time taken to check queue status and position for user boardingai: 6.41345977783E-5 seconds.
+2023-07-27 17:15:27 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"check_queue_status","user_id":"boardingai"}
+2023-07-27 17:15:27 - Checked queue status for user boardingai. Queue is empty.
+2023-07-27 17:15:27 - Checked position for user boardingai. Position is 1.
+2023-07-27 17:15:27 - Time taken to check queue status and position for user boardingai: 6.41345977783E-5 seconds.
+2023-07-27 17:15:27 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"boardingai"}
+2023-07-27 17:15:27 - User boardingai was removed from the queue.
+2023-07-27 17:15:27 - Time taken to remove user boardingai from the queue: 6.5803527832E-5 seconds.
+2023-07-27 17:15:27 - Request received from 35.202.20.114. Method: POST. URL: /?rest_route=/boardingai/v1/queue. User Agent: WordPress/6.2.2; https://boardingai.wpengine.com. Request Data: {"rest_route":"\/boardingai\/v1\/queue","action":"remove_from_queue","user_id":"boardingai"}
+2023-07-27 17:15:27 - User boardingai was removed from the queue.
+2023-07-27 17:15:27 - Time taken to remove user boardingai from the queue: 7.10487365723E-5 seconds.

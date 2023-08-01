@@ -1,0 +1,75 @@
+#surely-container {
+    font-size: 14px;
+    line-height: 1.5;
+    color: #444;
+}
+
+#surely-container label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+#surely-container select,
+#surely-container textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#surely-container textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+#surely-container button {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f7f7f7;
+    color: #333;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+#surely-container button:hover {
+    background-color: #e6e6e6;
+    border-color: #adadad;
+}
+
+#surely-loading {
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.surely-logo {
+    max-width: 100%; /* Set the maximum width to 100% of the container */
+    max-height: 24px; /* Set the desired maximum height */
+    object-fit: contain; /* Ensure the image maintains its aspect ratio */
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
+#surely-meta-box .hndle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background-color: transparent;
+}
+
+.surely-logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}

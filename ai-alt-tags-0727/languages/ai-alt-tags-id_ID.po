@@ -1,0 +1,251 @@
+# Copyright (C) 2023 BoardingArea
+# This file is distributed under the same license as the AI Alt Tags 0607 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Alt Tags 0607 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-alt-tags-0607\n"
+"POT-Creation-Date: 2023-06-12T17:13:35+00:00\n"
+"PO-Revision-Date: 2023-06-13 20:59-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. Plugin Name of the plugin
+msgid "AI Alt Tags"
+msgstr "AI Alt Tags"
+
+#. Description of the plugin
+msgid ""
+"A WordPress plugin that automatically generates image alt tags using Azure's "
+"Computer Vision API for better accessibility and SEO. Batch process all "
+"posts, with WP CLI integration for faster execution."
+msgstr ""
+"Sebuah plugin WordPress yang secara otomatis menghasilkan tag alt gambar "
+"menggunakan API Computer Vision Azure untuk aksesibilitas dan SEO yang lebih "
+"baik. Proses semua posting secara sekaligus, dengan integrasi WP CLI untuk "
+"eksekusi yang lebih cepat."
+
+#. Author of the plugin
+msgid "BoardingArea"
+msgstr "BoardingArea"
+
+#: admin-ui.php:29
+msgid "AI Alt Tags"
+msgstr "AI Alt Tags"
+
+#: admin-ui.php:30
+msgid ""
+"AI Alt Tags is an advanced feature integrated into the BoardingPack plugin "
+"that enhances website accessibility and SEO by automatically generating "
+"image alt tags using Microsoft Azure's Computer Vision API. Streamlining the "
+"process of adding descriptive alt tags, this feature supports batch "
+"processing of all posts and offers WP CLI integration for faster execution, "
+"ensuring content is accessible and optimized for search engines while "
+"intelligently analyzing images to generate accurate, meaningful alt tags "
+"that contribute to your website's overall performance."
+msgstr ""
+"AI Alt Tags adalah fitur canggih yang terintegrasi ke dalam plugin "
+"BoardingPack yang meningkatkan aksesibilitas situs web dan SEO dengan secara "
+"otomatis menghasilkan tag alt gambar menggunakan API Computer Vision "
+"Microsoft Azure. Mempermudah proses penambahan tag alt deskriptif, fitur ini "
+"mendukung pengolahan batch semua posting dan menawarkan integrasi WP CLI "
+"untuk eksekusi yang lebih cepat, memastikan konten dapat diakses dan "
+"dioptimalkan untuk mesin pencarian sambil cerdas menganalisis gambar untuk "
+"menghasilkan tag alt yang akurat, berarti yang berkontribusi pada kinerja "
+"situs web Anda secara keseluruhan."
+
+#: admin-ui.php:33
+msgid "Settings saved."
+msgstr "Pengaturan disimpan."
+
+#: admin-ui.php:34
+msgid "Dismiss this notice."
+msgstr "Tutup pemberitahuan ini."
+
+#: admin-ui.php:41
+msgid "Azure Settings"
+msgstr "Pengaturan Azure"
+
+#: admin-ui.php:45
+msgid "API Key"
+msgstr "Kunci API"
+
+#: admin-ui.php:46
+msgid "Azure API Key"
+msgstr "Kunci API Azure"
+
+#: admin-ui.php:49
+msgid "Enter the API Key provided by Azure for the Computer Vision service."
+msgstr ""
+"Masukkan Kunci API yang diberikan oleh Azure untuk layanan Computer Vision."
+
+#: admin-ui.php:53
+msgid "Language"
+msgstr "Bahasa"
+
+#: admin-ui.php:55
+msgid "English"
+msgstr "Inggris"
+
+#: admin-ui.php:56
+msgid "French"
+msgstr "Perancis"
+
+#: admin-ui.php:57
+msgid "German"
+msgstr "Jerman"
+
+#: admin-ui.php:58
+msgid "Indonesian"
+msgstr "Indonesia"
+
+#: admin-ui.php:59
+msgid "Japanese"
+msgstr "Jepang"
+
+#: admin-ui.php:60
+msgid "Korean"
+msgstr "Korea"
+
+#: admin-ui.php:61
+msgid "Portuguese (Brazilian)"
+msgstr "Portugis (Brasil)"
+
+#: admin-ui.php:62
+msgid "Spanish"
+msgstr "Spanyol"
+
+#: admin-ui.php:66
+msgid ""
+"Select the language for the generated alt text. Note that not all languages "
+"are supported by both API versions."
+msgstr ""
+"Pilih bahasa untuk teks alt yang dihasilkan. Perhatikan bahwa tidak semua "
+"bahasa didukung oleh kedua versi API."
+
+#: admin-ui.php:70
+msgid "API Version"
+msgstr "Versi API"
+
+#: admin-ui.php:78
+msgid ""
+"Select the API version to use for generating alt tags. Choose between v3.2 "
+"and v4.0."
+msgstr ""
+"Pilih versi API yang akan digunakan untuk menghasilkan tag alt. Pilih antara "
+"v3.2 dan v4.0."
+
+#: admin-ui.php:85
+msgid "Post Editing Settings"
+msgstr "Pengaturan Pengeditan Posting"
+
+#: admin-ui.php:90
+msgid "Automatically generate alt tags on post save (recommended)"
+msgstr ""
+"Secara otomatis menghasilkan tag alt pada penyimpanan posting (disarankan)"
+
+#: admin-ui.php:93
+msgid ""
+"When enabled, the feature will automatically add or update alt tags for "
+"images in a post when you save or update the post."
+msgstr ""
+"Ketika diaktifkan, fitur ini akan secara otomatis menambahkan atau "
+"memperbarui tag alt untuk gambar dalam postingan saat Anda menyimpan atau "
+"memperbarui postingan."
+
+#: admin-ui.php:100
+msgid "Batch Processing Settings"
+msgstr "Pengaturan Pengolahan Batch"
+
+#: admin-ui.php:105
+msgid "Default Behavior (recommended)"
+msgstr "Perilaku Default (disarankan)"
+
+#: admin-ui.php:108
+msgid ""
+"Adds alt tags to images that don't have them or have outdated ones. Existing "
+"alt tags remain unchanged."
+msgstr ""
+"Menambahkan tag alt ke gambar yang tidak memiliki tag atau memiliki tag yang "
+"sudah usang. Tag alt yang ada tetap tidak berubah."
+
+#: admin-ui.php:113
+msgid "Overwrite all existing alt tags"
+msgstr "Timpa semua tag alt yang ada"
+
+#: admin-ui.php:116
+msgid ""
+"Generates new alt tags for all images during batch processing, replacing any "
+"existing alt tags."
+msgstr ""
+"Menghasilkan tag alt baru untuk semua gambar selama pengolahan batch, "
+"menggantikan tag alt yang ada."
+
+#: admin-ui.php:121
+msgid "Overwrite alt tags from a specific version"
+msgstr "Timpa tag alt dari versi tertentu"
+
+#: admin-ui.php:124
+msgid ""
+"Updates alt tags only for images that were generated by a specific version "
+"of the API during batch processing."
+msgstr ""
+"Pembaruan tag alt hanya untuk gambar yang dihasilkan oleh versi tertentu "
+"dari API selama pengolahan batch."
+
+#: admin-ui.php:133
+msgid "Overwrite empty alt tags only"
+msgstr "Hanya timpa tag alt kosong"
+
+#: admin-ui.php:136
+msgid ""
+"Generates alt tags only for images that currently have empty alt tags during "
+"batch processing, regardless of their version."
+msgstr ""
+"Menghasilkan tag alt hanya untuk gambar yang saat ini memiliki tag alt "
+"kosong selama pengolahan batch, tanpa menghiraukan versinya."
+
+#: admin-ui.php:143
+msgid "Save Settings"
+msgstr "Simpan Pengaturan"
+
+#: admin-ui.php:153
+msgid "DO NOT CLOSE THIS WINDOW."
+msgstr "JANGAN TUTUP JENDELA INI."
+
+#: admin-ui.php:153
+msgid "Processing alt tags"
+msgstr "Memproses tag alt"
+
+#: admin-ui.php:153
+msgid "completed..."
+msgstr "selesai…"
+
+#: admin-ui.php:157
+msgid "Batch Process All Posts"
+msgstr "Proses Semua Posting Secara Batch"
+
+#: admin-ui.php:160
+msgid "Pro users: For faster batching, use the WP CLI commands:"
+msgstr ""
+"Pengguna Pro: Untuk proses batch yang lebih cepat, gunakan perintah WP CLI:"
+
+#: admin-ui.php:162
+msgid "default behavior"
+msgstr "perilaku default"
+
+#: admin-ui.php:163
+msgid "overwrite all existing alt tags"
+msgstr "timpa semua tag alt yang ada"
+
+#: admin-ui.php:164
+msgid "overwrite alt tags from a specific version"
+msgstr "timpa tag alt dari versi tertentu"
+
+#: admin-ui.php:165
+msgid "overwrite empty alt tags only"
+msgstr "hanya timpa tag alt kosong"

@@ -1,0 +1,252 @@
+# Copyright (C) 2023 BoardingArea
+# This file is distributed under the same license as the AI Alt Tags 0613 plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Alt Tags 0613 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ai-alt-tags-0607\n"
+"POT-Creation-Date: 2023-06-13T17:13:35+00:00\n"
+"PO-Revision-Date: 2023-06-13 21:58-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+
+#. Plugin Name of the plugin
+#: admin-ui.php:29
+msgid "AI Alt Tags"
+msgstr "Etiquetas Alt de IA"
+
+#. Description of the plugin
+msgid ""
+"A WordPress plugin that automatically generates image alt tags using Azure's "
+"Computer Vision API for better accessibility and SEO. Batch process all "
+"posts, with WP CLI integration for faster execution."
+msgstr ""
+"Un plugin de WordPress que genera automáticamente etiquetas alt de imagen "
+"utilizando la API de Visión por Computadora de Azure para una mejor "
+"accesibilidad y SEO. Procesa por lotes todas las publicaciones, con "
+"integración de WP CLI para una ejecución más rápida."
+
+#. Author of the plugin
+msgid "BoardingArea"
+msgstr "BoardingArea "
+
+#: admin-ui.php:30
+msgid ""
+"AI Alt Tags is an advanced feature integrated into the BoardingPack plugin "
+"that enhances website accessibility and SEO by automatically generating "
+"image alt tags using Microsoft Azure's Computer Vision API. Streamlining the "
+"process of adding descriptive alt tags, this feature supports batch "
+"processing of all posts and offers WP CLI integration for faster execution, "
+"ensuring content is accessible and optimized for search engines while "
+"intelligently analyzing images to generate accurate, meaningful alt tags "
+"that contribute to your website's overall performance."
+msgstr ""
+"Etiquetas Alt de IA  es una característica avanzada integrada en el plugin "
+"BoardingPack que mejora la accesibilidad y el SEO del sitio web generando "
+"automáticamente las etiquetas alt de las imágenes mediante la API de Visión "
+"por Computadora de Microsoft Azure. Agilizando el proceso de adición de "
+"etiquetas alt descriptivas, esta característica permite el procesamiento por "
+"lotes de todas las publicaciones y ofrece integración con WP CLI para una "
+"ejecución más rápida, asegurando que el contenido sea accesible y optimizado "
+"para los motores de búsqueda mientras analiza inteligentemente las imágenes "
+"para generar etiquetas alt precisas y significativas que contribuyen al "
+"rendimiento general de su sitio web."
+
+#: admin-ui.php:33
+msgid "Settings saved."
+msgstr "Configuraciones guardadas."
+
+#: admin-ui.php:34
+msgid "Dismiss this notice."
+msgstr "Descarta este aviso."
+
+#: admin-ui.php:41
+msgid "Azure Settings"
+msgstr "Configuraciones de Azure "
+
+#: admin-ui.php:45
+msgid "API Key"
+msgstr "Clave de API "
+
+#: admin-ui.php:46
+msgid "Azure API Key"
+msgstr "Clave de API de Azure "
+
+#: admin-ui.php:49
+msgid "Enter the API Key provided by Azure for the Computer Vision service."
+msgstr ""
+"Introduce la clave de API proporcionada por Azure para el servicio de Visión "
+"por Computadora. "
+
+#: admin-ui.php:53
+msgid "Language"
+msgstr "Idioma "
+
+#: admin-ui.php:55
+msgid "English"
+msgstr "Inglés "
+
+#: admin-ui.php:56
+msgid "French"
+msgstr "Francés "
+
+#: admin-ui.php:57
+msgid "German"
+msgstr "Alemán "
+
+#: admin-ui.php:58
+msgid "Indonesian"
+msgstr "Indonesio "
+
+#: admin-ui.php:59
+msgid "Japanese"
+msgstr "Japonés "
+
+#: admin-ui.php:60
+msgid "Korean"
+msgstr "Coreano "
+
+#: admin-ui.php:61
+msgid "Portuguese (Brazilian)"
+msgstr "Portugués (Brasil) "
+
+#: admin-ui.php:62
+msgid "Spanish"
+msgstr "Español "
+
+#: admin-ui.php:66
+msgid ""
+"Select the language for the generated alt text. Note that not all languages "
+"are supported by both API versions."
+msgstr ""
+"Selecciona el idioma para el texto alternativo generado. Ten en cuenta que "
+"no todos los idiomas son compatibles con ambas versiones de la API."
+
+#: admin-ui.php:70
+msgid "API Version"
+msgstr "Versión de la API "
+
+#: admin-ui.php:78
+msgid ""
+"Select the API version to use for generating alt tags. Choose between v3.2 "
+"and v4.0."
+msgstr ""
+"Selecciona la versión de la API a utilizar para generar las etiquetas alt. "
+"Elige entre v3.2 y v4.0."
+
+#: admin-ui.php:85
+msgid "Post Editing Settings"
+msgstr "Configuraciones de Edición de Publicaciones "
+
+#: admin-ui.php:90
+msgid "Automatically generate alt tags on post save (recommended)"
+msgstr ""
+"Generar automáticamente etiquetas alt al guardar una publicación "
+"(recomendado)."
+
+#: admin-ui.php:93
+msgid ""
+"When enabled, the feature will automatically add or update alt tags for "
+"images in a post when you save or update the post."
+msgstr ""
+"Cuando se activa, la función agregará o actualizará automáticamente las "
+"etiquetas alt para las imágenes en una publicación cuando guardes o "
+"actualices la publicación."
+
+#: admin-ui.php:100
+msgid "Batch Processing Settings"
+msgstr "Ajustes de Procesamiento por Lotes "
+
+#: admin-ui.php:105
+msgid "Default Behavior (recommended)"
+msgstr "Comportamiento predeterminado (recomendado)."
+
+#: admin-ui.php:108
+msgid ""
+"Adds alt tags to images that don't have them or have outdated ones. Existing "
+"alt tags remain unchanged."
+msgstr ""
+"Agrega etiquetas alt a las imágenes que no las tienen o que tienen unas "
+"obsoletas. Las etiquetas alt existentes permanecen sin cambios."
+
+#: admin-ui.php:113
+msgid "Overwrite all existing alt tags"
+msgstr "Sobrescribir todas las etiquetas alt existentes "
+
+#: admin-ui.php:116
+msgid ""
+"Generates new alt tags for all images during batch processing, replacing any "
+"existing alt tags."
+msgstr ""
+"Genera nuevas etiquetas alt para todas las imágenes durante el procesamiento "
+"por lotes, reemplazando cualquier etiqueta alt existente."
+
+#: admin-ui.php:121
+msgid "Overwrite alt tags from a specific version"
+msgstr "Sobrescribir etiquetas alt de una versión específica "
+
+#: admin-ui.php:124
+msgid ""
+"Updates alt tags only for images that were generated by a specific version "
+"of the API during batch processing."
+msgstr ""
+"Actualiza las etiquetas alt sólo para las imágenes que se generaron con una "
+"versión específica de la API durante el procesamiento por lotes."
+
+#: admin-ui.php:133
+msgid "Overwrite empty alt tags only"
+msgstr "Sobrescribir solo las etiquetas alt vacías "
+
+#: admin-ui.php:136
+msgid ""
+"Generates alt tags only for images that currently have empty alt tags during "
+"batch processing, regardless of their version."
+msgstr ""
+"Genera etiquetas alt sólo para imágenes que actualmente tienen etiquetas alt "
+"vacías durante el procesamiento por lotes, independientemente de su versión."
+
+#: admin-ui.php:143
+msgid "Save Settings"
+msgstr "Guardar Configuraciones"
+
+#: admin-ui.php:153
+msgid "DO NOT CLOSE THIS WINDOW."
+msgstr "NO CIERRES ESTA VENTANA."
+
+#: admin-ui.php:153
+msgid "Processing alt tags"
+msgstr "Procesando etiquetas alt"
+
+#: admin-ui.php:153
+msgid "completed..."
+msgstr "completado…"
+
+#: admin-ui.php:157
+msgid "Batch Process All Posts"
+msgstr "Procesamiento por Lotes de Todas las Publicaciones "
+
+#: admin-ui.php:160
+msgid "Pro users: For faster batching, use the WP CLI commands:"
+msgstr ""
+"Usuarios Pro: Para un procesamiento por lotes más rápido, use los comandos "
+"de WP CLI:"
+
+#: admin-ui.php:162
+msgid "default behavior"
+msgstr "comportamiento predeterminado "
+
+#: admin-ui.php:163
+msgid "overwrite all existing alt tags"
+msgstr "sobrescribir todas las etiquetas alt existentes "
+
+#: admin-ui.php:164
+msgid "overwrite alt tags from a specific version"
+msgstr "sobrescribir etiquetas alt de una versión específica "
+
+#: admin-ui.php:165
+msgid "overwrite empty alt tags only"
+msgstr "sobrescribir solo las etiquetas alt vacías"
